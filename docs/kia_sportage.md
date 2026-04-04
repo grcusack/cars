@@ -12,12 +12,14 @@ layout: default
 
 # Cars Found
 ## Hybrid
+
 | Link        | Price       | Year        | Miles       | Package     | Notes       |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| [Link](https://www.cars.com/vehicledetail/121b876a-f137-49c0-a0d0-e2d58962daa4/)    | $27,981           | 2025        | 4,437           | LX          | Rochester Kia Dealership.  Posted 3/26. No price changes yet. |
-| [Link]()    | 0           | 2025        | 0           | LX          |             |
+| [Link](https://www.cars.com/vehicledetail/121b876a-f137-49c0-a0d0-e2d58962daa4/)    | $27,981           | 2025        | 4,437           | LX          | Rochester Kia Dealership.  Posted 3/26. No price changes yet. Cloth seats|
+| [Link](https://www.cars.com/vehicledetail/46a25b75-f70d-4cd9-b65b-2dc80d3a3a33/)    | 4,694           | 2025        | $27,388           | LX          | Bronx Kia Dealership. Posted 3/25. One price drop 4/2 -$500. Cloth seats|
 
 ## Non-Hybrid
+
 | Link        | Price       | Year        | Miles       | Package     | Notes       |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | [Link]()    | 0           | 2025        | 0           | LX          |             |

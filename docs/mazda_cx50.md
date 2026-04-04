@@ -9,12 +9,14 @@ layout: default
 
 # Cars Found
 ## Hybrid
+
 | Link        | Price       | Year        | Miles       | Package     | Notes       |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | [Link]()    | 0           | 2025        | 0           |             |             |
 | [Link]()    | 0           | 2025        | 0           |             |             |
 
 ## Non-Hybrid
+
 | Link        | Price       | Year        | Miles       | Package     | Notes       |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | [Link]()    | 0           | 2025        | 0           |             |             |
