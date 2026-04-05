@@ -10,6 +10,65 @@ layout: default
 ## Trim Packages
 [Compare Features for 2025](https://www.kia.com/us/en/vehicles/sportage/2025/specs-compare)
 
+### Notes
+- LX
+  - Forward Collision Avoidance Assist : warns and stops car if car stops suddenly  in front of you or pedestrians are there
+  - Park Distance Warning (Rear) : warns of close objects when stopped or low speed
+  - Lane departure warning
+  - Lane keeping assist
+  - Lane following assist : keeps you centered
+  - Driver attention warning
+  - Rear occupant allert : alerts when leaving if someones left in the back seat
+  - Tons of airbags
+  - Rollover sensor
+  - Backup camera
+  - Keyless entry
+  - AC with rear AC vents
+  - Clotch seats
+  - 8-inch touchscreen display
+  - 12-inch instrument display
+  - android auto / apple carplay
+  - x1 usb-a and x1 usb-c port
+  - bluetooth
+  - 17 inch wheels
+  - wheelbase 108.5 inches
+  - width 73.4 in
+  - length 183.5 in
+  - Cargo volume seats up : 39.6 cu ft
+  - Cargo volume seats down : 74.1 cu ft
+  - (option of heated seats)
+- EX (only noting differences where applicable to the LX)
+  - Blind Spot Collision Avoidance Assist (when leaving parallel parking spot)
+  - Rear Cross-Traffic Collision Avoidance Assist : avoid getting t-boned backing out in the parking lot
+  - Smart Key : better keyless entry?? Allows opening the trunk remotely too?
+  - Push button start
+  - Heated side mirrors
+  - Dual-Zone climate control with auto de-fog
+  - Heated seats
+  - Syntex seats (fake leather that will get really hot in the summer)
+  - 12.2-inch touchscreen display
+  - XM radio
+  - Remote Start
+  - Wireless Phone Charger
+  - Kia Access App: can help you pre-cool or heat up car
+  - x2 more usb-c ports in the 2nd row
+  - 18-in wheel
+- X-Line (only noting differences where applicable to the EX)
+  - roof rack
+  - 19 inch wheels
+- SX (only noting differences where applicable to the X-Line)
+  - Forward collision detection when turning at an intersection (left turns only?)
+  - Smart cruise control
+  - Highway driving assist
+  - Driver seat memory presets
+  - Sunroof
+  - Fancier sound system
+  - Lower profile roof rails
+  - Smart lift gate
+  - 18 inch wheels
+
+
+
 ## Cars Found
 ### Hybrid
 

@@ -7,12 +7,12 @@ nav ul {
   margin: 0;
   padding: 3px;
   list-style: none;
-  background-color: antiquewhite;
+  background-color: rgb(159, 159, 159);
 }
 nav li {
   padding: 3px;
   display: inline-block;
-  background-color: aliceblue;
+  background-color: rgb(198, 225, 249);
 }
 nav a {
   display: block;
