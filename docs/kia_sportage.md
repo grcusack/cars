@@ -75,11 +75,15 @@ layout: default
 | Price       | Year        | Miles       | Package     | Notes       | Link        |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | $27,981     | 2025        | 4,437       | LX          | Rochester Kia Dealership.  Posted 3/26. No price changes yet. Cloth seats| [Link](https://www.cars.com/vehicledetail/121b876a-f137-49c0-a0d0-e2d58962daa4/)    |
-| $27,388     | 2025        | 4,694       | LX          | Bronx Kia Dealership. Posted 3/25. One price drop 4/2 -$500. Cloth seats | [Link](https://www.cars.com/vehicledetail/46a25b75-f70d-4cd9-b65b-2dc80d3a3a33/)    |
+| $27,888     | 2025        | 4,694       | LX          | Bronx Kia Dealership. Posted 3/25. One price drop 4/2 -$500. PRICE INCREASE back up $500 .. bruh. Cloth seats | [Link](https://www.cars.com/vehicledetail/46a25b75-f70d-4cd9-b65b-2dc80d3a3a33/)    |
+|             |             |             |             |             | [Link]()    |
 
 ### Non-Hybrid
 
 | Price       | Year        | Miles       | Package     | Notes       | Link        |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 0           | 2025        | 0           | LX          |             | [Link]()    |
-| 0           | 2025        | 0           | LX          |             | [Link]()    |
+| $23,850     | 2025        | 11,430 mi   | LX          | Lake Katrine NY Kia Dealer. Big 6K drop on 4/2. 4 other little drops listed | [Link](https://www.cars.com/vehicledetail/4986d242-573e-45d8-833c-ff1c37719b1d/)    |
+| $24,542     | 2025        | 5,861 mi    | LX          | Generation KIA Bohemia NY. Price has gone up and down since 3/26   | [Link](https://www.cars.com/vehicledetail/99511e54-81f6-4478-80a6-5926dc418104/)    |
+| $27,220     | 2025        | 3,341 mi    | LX          | Scott Kia of Limerick. Certified. Posted 4/2 one price drop on 4/10  | [Link](https://www.cars.com/vehicledetail/1fbc98d4-4798-44aa-823b-9d2b5c523d9d/)    |
+| $26,990     | 2025        | 7,485 mi    | EX          | Honesdale Chrysler Dodge Jeep RAM. Honesdale PA. NINE price drops since listing 2/19  | [Link](https://www.cars.com/vehicledetail/c719a8bc-7b57-4b1f-bf99-68da825ff6a6/)    |
+| $25,999     | 2025        | 10,182 mi   | EX          | KIA on the Boulevard Philly PA. 2 $1K price drops since 3/14. Blue | [Link](https://www.cars.com/vehicledetail/2536f4d9-8dde-4389-9f1c-a1b75ceb8fd0/)    |

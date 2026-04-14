@@ -60,15 +60,21 @@ layout: default
 
 | Price       | Year        | Miles       | Package     | Notes       | Link        |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 0           | 2025        | 0           |             |             | [Link]()    |
-| 0           | 2025        | 0           |             |             | [Link]()    |
+| $29,777     | 2025        | 7,588 mi    | Preferred   | Bob Johnson used Rochester NY. Listed 1/22 and had smaller price drops since then | [Link](https://www.cars.com/vehicledetail/d436dc12-1d52-4e45-bb5c-b549860429ce/)    |
+| $29,867     | 2025        | 16,308 mi   | Preferred   | Irwin Automotive Laconia NH. Just listed 3/31. | [Link](https://www.cars.com/vehicledetail/a5292e57-6d32-4eeb-a437-42a10d4304a6/)    |
+|             |             |             |             |             | [Link]()    |
+|             |             |             |             |             | [Link]()    |
+|             |             |             |             |             | [Link]()    |
+|             |             |             |             |             | [Link]()    |
+
 
 ### Non-Hybrid
 
 | Price       | Year        | Miles       | Package        | Notes       | Link        |
 | ----------- | ----------- | ----------- | -----------    | ----------- | ----------- |
-| $26,850     | 2025        | 10,040      | 2.5S Select    | New Hampshire Mazda Dealer. BIG $5000 price drop on 3/18. Additional small price drop 3/28. Cloth and leather seats?   | [Link](https://www.cars.com/vehicledetail/34b123ea-8f30-41e1-a45d-ace4211ee04d/?__cf_chl_rt_tk=3lt18WzST.rSqFe.wZErnsS3VqOZhtu19UazuJv.9QQ-1775342046-1.0.1.1-AvMSRZZWLEsw3utkS6tO4ydArtQH6ZSnlD5v9rISzpM)    |
-| $26,000     | 2025        | 17,694      | 2.5S Preffered | Pennsylvania Chevrolet/GMC Dealership. One decent price drop on 3/23 | [Link](https://www.cars.com/vehicledetail/51a666d0-b3bc-45f3-9a97-0746eeeec2dc/)    |
+| $25,500     | 2025        | 17,694 mi   | Preferred   | Blaise Alexander Chevy GMC Selingsgrove PA. 2 moderate price drops since listed 3/8  | [Link](https://www.cars.com/vehicledetail/51a666d0-b3bc-45f3-9a97-0746eeeec2dc/)    |
+| $27,491     | 2025        | 5,026 mi    | Preferred           | Bob Johnson Rochester NY. Listed 1/22. 6 price drops, with one $1K drop on april fools... | [Link](https://www.cars.com/vehicledetail/c6d2f01b-9f4b-4921-98f6-91a90fa22cba/)    |
 | $27,998     | 2025        | 5,569      | 2.5S Preffered | Bayshore NY Mazda Dealer. Almost $5K drop on 2/7 and an almost $1K drop on 3/28. All of these seem to have a mix of cloth/leather seats | [Link](https://www.cars.com/vehicledetail/db4e1434-fe48-43fc-afb1-5013326c7051/)    |
+
 
 
